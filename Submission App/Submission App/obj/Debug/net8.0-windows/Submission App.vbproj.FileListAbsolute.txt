@@ -1,0 +1,21 @@
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\bin\Debug\net8.0-windows\Submission App.exe
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\bin\Debug\net8.0-windows\Submission App.deps.json
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\bin\Debug\net8.0-windows\Submission App.runtimeconfig.json
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\bin\Debug\net8.0-windows\Submission App.dll
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\bin\Debug\net8.0-windows\Submission App.pdb
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.vbproj.AssemblyReference.cache
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission_App.CreateSubmissionForm.resources
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission_App.Form1.resources
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission_App.ViewSubmissionsForm.resources
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.vbproj.GenerateResource.cache
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.AssemblyInfoInputs.cache
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.AssemblyInfo.vb
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.vbproj.CoreCompileInputs.cache
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submissi.B41F1E17.Up2Date
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.dll
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\refint\Submission App.dll
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.pdb
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\Submission App.genruntimeconfig.cache
+C:\Users\Hrishi Keasan\source\repos\Submission App\Submission App\obj\Debug\net8.0-windows\ref\Submission App.dll
