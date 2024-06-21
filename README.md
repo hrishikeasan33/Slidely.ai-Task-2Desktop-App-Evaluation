@@ -68,6 +68,10 @@ Submission App is a Windows Desktop application built with Visual Basic in Visua
 - **Buttons**:
   - `VIEW SUBMISSIONS (CTRL + V)`: Opens the View Submissions form.
   - `CREATE NEW SUBMISSION (CTRL + N)`: Opens the Create Submission form.
+    ![image](https://github.com/hrishikeasan33/Slidely.ai-Task-2Desktop-App-Evaluation/assets/143091137/6a99192a-85da-479f-ba09-596a88b07435)
+    ![image](https://github.com/hrishikeasan33/Slidely.ai-Task-2Desktop-App-Evaluation/assets/143091137/d574e8aa-d5f4-4c74-a732-44533143c8c8)
+
+
 
 ### View Submissions Form (`ViewSubmissionsForm`)
 
@@ -80,6 +84,8 @@ Submission App is a Windows Desktop application built with Visual Basic in Visua
   - `ViewSubmissionsForm_Load`: Loads submissions from the backend on form load.
   - `btnPrevious_Click` & `btnNext_Click`: Navigate through submissions.
   - `DisplaySubmission`: Displays the current submission details.
+    ![image](https://github.com/hrishikeasan33/Slidely.ai-Task-2Desktop-App-Evaluation/assets/143091137/e5fd2abf-82f7-4d25-ba82-ebffc58d4c35)
+
 
 ### Create Submission Form (`CreateSubmissionForm`)
 
@@ -91,6 +97,9 @@ Submission App is a Windows Desktop application built with Visual Basic in Visua
 - **Functions**:
   - `btnStopwatch_Click`: Starts or stops the stopwatch.
   - `btnSubmit_Click`: Collects the data and sends it to the backend server for storage.
+![image](https://github.com/hrishikeasan33/Slidely.ai-Task-2Desktop-App-Evaluation/assets/143091137/d5ce9e13-5e7f-4d00-962c-7de48d7643be)
+![image](https://github.com/hrishikeasan33/Slidely.ai-Task-2Desktop-App-Evaluation/assets/143091137/06fdc42c-bb99-48c7-8644-562fde2b6222)
+
 
 ## Troubleshooting
 
