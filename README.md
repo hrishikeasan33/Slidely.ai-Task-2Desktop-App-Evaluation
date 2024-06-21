@@ -1,6 +1,7 @@
+
 # Submission App - Windows Desktop Application
 
-Submission App is a Windows Desktop application built with Visual Basic in Visual Studio. This application provides an intuitive interface for managing submissions, allowing users to view and create submission records easily.
+Submission App is a Windows Desktop application built with Visual Basic in Visual Studio. This application provides an intuitive interface for managing submissions, allowing users to view and create submission records easily. This project is part of Task 2 for Slidely.ai task submissions.
 
 ## Table of Contents
 
@@ -30,7 +31,7 @@ Submission App is a Windows Desktop application built with Visual Basic in Visua
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/submission-app.git
+    git clone https://github.com/hrishikeasan33/Slidely.ai-Task-2Desktop-App-Evaluation.git)
     cd submission-app
     ```
 
